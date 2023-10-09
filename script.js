@@ -4,3 +4,5 @@ let zuccher = 250
 let cioccolato = 50
 
 farina = farina - 100
+
+console.log(farina)
