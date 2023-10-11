@@ -30,7 +30,7 @@ console.log(variabileContenenteNomeIntero); //stamperà "Catalin Radoi"
 
 //Domanda numero 3:
 
-//      undefined e null NON sono la stessa cosa in quanto undefined non "prenota" area di memoria mentre null si
+//      undefined e null NON sono la stessa cosa in quanto undefined è come se fosse una ciotola vuota a disposizione ma non sul tavolo, mentre null la ciotola è sul tavolo ma vuota
 let variabile_undefined
 console.log(typeof(variabile_undefined))
 variabile = 2 
